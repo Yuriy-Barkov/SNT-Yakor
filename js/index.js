@@ -1,6 +1,7 @@
 // import Modal from "./modules/Modal/Modal"
-
-window.onload = function () {
-    console.log("page loaded")
-    console.log(this)
-};
+// import XLSX from 'xlsx';
+//
+// window.onload = function () {
+//
+// };
+// console.log("page index.js loaded")

@@ -11,7 +11,8 @@ module.exports = {
     mode: "development",
     devtool: isDev ? "source-map" : false,
     entry: {
-        app: "./js/index.js",
+        index: "./js/index.js",
+        carry: "./js/carry.js"
     },
     output: {
         path: path.resolve(__dirname, "build"),
